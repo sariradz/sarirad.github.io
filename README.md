@@ -12,7 +12,7 @@ I completed my **BSc in Plant Sciences** at the Faculty of Agriculture, Hebrew U
 
 ### 🔬 What I'm working on
 
-I'm currently doing my first rotation in **Dr. Dvir Gur's lab**, where I'm exploring the dynamics of bio-crystals in *Chlamydomonas reinhardtii* — a cute unicellular alga 🟢:
+I'm currently doing my first rotation in [**Dr. Dvir Gur's lab**](https://www.weizmann.ac.il/molgen/gur/), where I'm exploring the dynamics of bio-crystals in *Chlamydomonas reinhardtii* — a cute unicellular alga 🟢:
 
 <img src="chlamy.jpg" width="300">
 
