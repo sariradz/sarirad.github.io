@@ -1,5 +1,3 @@
-# sariradz.github.io
-
 # Sari Radziner
 
 ### 👋 Nice to meet you 
