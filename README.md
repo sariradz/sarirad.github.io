@@ -1,4 +1,4 @@
-# <h1 align="center"> Sari Radziner </h1>
+# Sari Radziner
 
 ### 👋 Nice to meet you 
 
