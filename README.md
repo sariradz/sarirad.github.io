@@ -1,10 +1,10 @@
-# Sari Radziner
+# <h1 align="center"> Sari Radziner</h1>
 
 ### 👋 Nice to meet you 
 
-My name is **Sari**, and I've just started my **MSc in Life Sciences** at the Weizmann Institute.
+<img align="right" src="">
 
-<img src=>
+My name is **Sari**, and I've just started my **MSc in Life Sciences** at the Weizmann Institute.
 
 I completed my **BSc in Plant Sciences** at the Faculty of Agriculture, Hebrew University of Jerusalem.
 
